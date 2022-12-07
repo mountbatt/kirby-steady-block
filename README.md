@@ -6,7 +6,7 @@ Technically it just adds the Steady Syntax <span>`___STEADY_PAYWALL___`</span> i
 Important: You have to put your own / custom Steady initialization code into `<head>` to make steady work on your site!
 
 ### Blueprint:
-To use it in your block-editor you have to manually add the `steady` block to your blueprint
+To use it in your block-editor you have to manually add the `steady` block to your `fieldsets`
 
 
 ````
