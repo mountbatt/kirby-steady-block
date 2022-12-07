@@ -5,5 +5,13 @@ Kirby::plugin('mountbatt/steady', [
   ],
   'snippets' => [
     'blocks/steady' => __DIR__ . '/snippets/blocks/steady.php'
-  ]
+  ],
+  'translations' => [
+      'en' => [
+          'mountbatt.steady.blocktext' => 'The Steady Paywall begins here',
+      ],
+      'de' => [
+          'mountbatt.steady.blocktext' => 'Die Steady Paywall beginnt hier',
+      ]
+  ],
 ]);

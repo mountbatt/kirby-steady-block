@@ -5,7 +5,7 @@ panel.plugin("mountbatt/steady", {
   blocks: {
     steady: `
       <div>
-        <center><img class="steady-logo" src="../media/plugins/mountbatt/steady/steady_icon_white_in_purple.svg"> Steady Paywall begins here &nbsp; &darr;</center>
+        <center><img class="steady-logo" src="../media/plugins/mountbatt/steady/steady_icon_white_in_purple.svg"> {{ $t('mountbatt.steady.blocktext') }} &nbsp; &darr;</center>
       </div>
     `
   }
