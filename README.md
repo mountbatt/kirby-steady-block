@@ -3,6 +3,10 @@
 
 Technically it just adds the Steady Syntax <span>`___STEADY_PAYWALL___`</span> into the output.
 
+Important: You have to put your own / custom Steady initialization code into `<head>` to make steady work on your site!
+
+### Screenshots
+
 ![Bildschirm­foto 2022-12-07 um 17 14 43](https://user-images.githubusercontent.com/2411246/206232192-abdd5b26-9dbd-4087-835d-cc4a0bb2d3de.png)
 
 ![Bildschirm­foto 2022-12-07 um 17 14 21](https://user-images.githubusercontent.com/2411246/206232212-9ea76e6b-4611-4ac2-afbe-57ff5deff7ef.png)
