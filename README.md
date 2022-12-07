@@ -8,7 +8,7 @@ Important: You have to put your own / custom Steady initialization code into `<h
 ## Installation
 Just put it into your `/site/plugins/` directory
 
-### Blueprint:
+## Blueprint:
 To use it in your block-editor you have to manually add the `steady` block to your `fieldsets`
 
 
@@ -31,7 +31,7 @@ content:
 ````
 
 
-### Screenshots
+## Screenshots
 
 ![Bildschirm­foto 2022-12-07 um 17 14 43](https://user-images.githubusercontent.com/2411246/206232192-abdd5b26-9dbd-4087-835d-cc4a0bb2d3de.png)
 
