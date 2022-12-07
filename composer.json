@@ -1,0 +1,12 @@
+{
+    "name": "mountbatt/steady",
+    "description": "Steady Paywall Block Plugin",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tobias Battenberg",
+            "email": "mountbatt@gmail.com"
+        }
+    ]
+}
